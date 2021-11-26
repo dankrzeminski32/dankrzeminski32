@@ -2,8 +2,8 @@
 <h3 align="center">Purdue University Northwest, Computer Science & Applied Statistics</h3>
 <br>
 
+- ❤️ Interested in Web Development, Machine Learning, AI
 - 👨‍💻 All of my projects are available at [https://github.com/dankrzeminski32](https://github.com/dankrzeminski32)
-
 - 📫 How to reach me **dankrzeminski32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
