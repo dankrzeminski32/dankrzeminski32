@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **dankrzeminski32@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/daniel-krzeminski-888692206](www.linkedin.com/in/daniel-krzeminski-888692206)
+- 📄 Know about my experiences [https://www.linkedin.com/in/daniel-krzeminski-888692206](https://www.linkedin.com/in/daniel-krzeminski-888692206)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
