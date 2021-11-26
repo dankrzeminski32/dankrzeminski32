@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Krzeminski</h1>
-<h3 align="center">A passionate web developer from Indiana</h3>
-<h4 align="center">Purdue University Northwest</h4>
+<h3 align="center">Purdue University Northwest, Computer Science & Applied Statistics</h3>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/dankrzeminski32](https://github.com/dankrzeminski32)
